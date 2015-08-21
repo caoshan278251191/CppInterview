@@ -1,0 +1,14 @@
+
+*.inc
+
+*.o
+
+*.d
+
+*.mk
+
+*.xml
+
+*.bash
+
+*.properties
